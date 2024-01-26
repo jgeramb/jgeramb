@@ -1,5 +1,3 @@
-### Hi 👋, I'm Justus!
+### Hi 👋, Justus here!
 
-I am an 18 year old software developer from Germany.
-
-Have a look at my portfolio [here](https://www.justix.dev).
+I'm a full stack software developer from **Hamburg, Germany**. Have a look at my portfolio [here](https://www.justix.dev).
